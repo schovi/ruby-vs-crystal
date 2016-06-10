@@ -1,0 +1,4 @@
+ruby/vendor/bundle
+ruby/.bundle
+crystal/.shards
+crystal/libs

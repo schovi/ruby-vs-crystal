@@ -1,0 +1,22 @@
+version: 1.0
+shards:
+  kemal:
+    git: https://github.com/sdogruyol/kemal
+    version: 0.12.0
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.3.3
+
+  minitest:
+    git: https://github.com/ysbaddaden/minitest.cr
+    version: 0.3.4
+
+  radix:
+    github: luislavena/radix
+    version: 0.3.0
+
+  redis:
+    github: stefanwille/crystal-redis
+    version: 1.6.2
+

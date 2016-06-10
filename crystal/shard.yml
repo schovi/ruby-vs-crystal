@@ -1,0 +1,14 @@
+name: playground
+version: 1.0.0
+
+dependencies:
+  kemal:
+    git: https://github.com/sdogruyol/kemal
+  redis:
+    github: stefanwille/crystal-redis
+
+development_dependencies:
+  minitest:
+    git: https://github.com/ysbaddaden/minitest.cr
+
+license: MIT
